@@ -16,6 +16,8 @@ more information.
 Refer to [libqril.h](/lib/libqril.h) for the API definition, and see
 [examples](/examples/) for example usage.
 
+[old](/old/) contains some old code which may still serve as a useful reference for future work. The whole old version of libqril [can be seen here](https://github.com/aospm/qrild/tree/main/libqril)
+
 ## Dependencies
 
 Libqril needs to be built against [this fork of
